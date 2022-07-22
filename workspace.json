@@ -1,7 +1,7 @@
 {
   "version": 2,
   "projects": {
-    "squirrel": "apps/squirrel",
-    "squirrel-e2e": "apps/squirrel-e2e"
+    "squirrel-news-app": "apps/squirrel-news-app",
+    "squirrel-news-app-e2e": "apps/squirrel-news-app-e2e"
   }
 }

@@ -1,6 +1,6 @@
 import { getGreeting } from '../support/app.po';
 
-describe('squirrel', () => {
+describe('squirrel-news-app', () => {
   beforeEach(() => cy.visit('/'));
 
   it('should display welcome message', () => {
@@ -8,6 +8,6 @@ describe('squirrel', () => {
     cy.login('my-email@something.com', 'myPassword');
 
     // Function helper example, see `../support/app.po.ts` file
-    getGreeting().contains('Welcome squirrel');
+    getGreeting().contains('Welcome squirrel-news-app');
   });
 });
