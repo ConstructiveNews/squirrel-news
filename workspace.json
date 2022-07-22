@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "squirrel": "apps/squirrel",
+    "squirrel-e2e": "apps/squirrel-e2e"
+  }
+}
