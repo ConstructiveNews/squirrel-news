@@ -1,0 +1,6 @@
+{
+  "name": "squirrel-news-app",
+  "devDependencies": {
+    "@capacitor/cli": "^3.2.5"
+  }
+}

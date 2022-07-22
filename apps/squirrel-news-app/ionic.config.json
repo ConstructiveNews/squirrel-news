@@ -1,0 +1,7 @@
+{
+  "name": "squirrel-news-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
