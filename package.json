@@ -5,7 +5,8 @@
   "scripts": {
     "start": "nx serve squirrel-news-app",
     "build": "nx build squirrel-news-app",
-    "test": "nx test"
+    "test": "nx test",
+    "nx": "nx"
   },
   "private": true,
   "dependencies": {
